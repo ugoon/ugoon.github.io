@@ -1,2 +1,1 @@
-# ugoon.github.io
-ugoon.github.io
+- [2025-04-22-AI.md](2025-04-22-AI.md)
